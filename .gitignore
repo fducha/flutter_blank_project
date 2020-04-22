@@ -1,0 +1,10 @@
+.metadata
+.packages
+pubspec.lock
+flutter_blank_project.iml
+test/
+ios/
+build/
+android/
+.idea/
+.dart_tool/
