@@ -1,0 +1,25 @@
+name: pure_project
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^0.7.1
+  flutter_bloc: ^3.2.0
+
+  flutter_localizations:
+      sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  freezed: ^0.10.5
+  build_runner: ^1.8.1
+
+flutter:
+  uses-material-design: true
